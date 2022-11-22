@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "holberton.h": "c",
+        "main.h": "c"
+    }
+}
